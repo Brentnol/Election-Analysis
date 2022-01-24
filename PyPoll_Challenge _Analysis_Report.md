@@ -249,7 +249,7 @@ with open(file_to_save, "w") as txt_file:
 
 ![Election Results](https://github.com/Brentnol/Election-Analysis/blob/main/Resources/Election%20Results.png)
 
- !  
+   
  <!--OL--> 
 ### Challenges and Solutions Encountered
 
